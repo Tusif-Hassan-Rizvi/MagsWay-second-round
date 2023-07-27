@@ -21,4 +21,5 @@
   display: flex;
   justify-content: space-around;
   position: absolute;
+  padding: 0 20px;
 }

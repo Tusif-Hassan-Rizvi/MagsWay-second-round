@@ -6,6 +6,7 @@
   justify-content: space-around;
   top: 58px;
   color: white;
+  z-index: 5;
 }
 
 .company-logo {

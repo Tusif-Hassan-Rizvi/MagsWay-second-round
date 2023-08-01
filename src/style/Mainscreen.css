@@ -19,7 +19,5 @@
 .main-box {
   margin-top: 200px;
   display: flex;
-  justify-content: space-around;
-  position: absolute;
-  padding: 0 20px;
+  padding-left: 140px;
 }

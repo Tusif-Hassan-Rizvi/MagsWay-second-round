@@ -5,7 +5,7 @@ import '../style/Sectiontwo.css';
 function Sectiontwo() {
   return (
     <div className='Group-icon'>
-      <img src={GroupIcon} alt='Group Icon'/>
+      <img src={GroupIcon} alt='Group Icon' draggable="false"/>
     </div>
   )
 }
